@@ -1,0 +1,6 @@
+{
+  "name": "Nexus",
+  "description": "Nexus mobile-first social, stories, reels, and messaging app built with Material 3 adaptive design.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

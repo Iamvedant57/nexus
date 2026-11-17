@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Nexus</string>
+    <string name="tagline">Connect in vivid motion</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_explore">Explore</string>
+    <string name="nav_create">Create</string>
+    <string name="nav_reels">Reels</string>
+    <string name="nav_profile">Profile</string>
+    <string name="tab_for_you">For You</string>
+    <string name="tab_following">Following</string>
+    <string name="cd_notifications">Notifications</string>
+    <string name="cd_messages">Direct Messages</string>
+    <string name="cd_back">Navigate back</string>
+    <string name="cd_create">Create post or reel</string>
+    <string name="cd_like">Like post</string>
+    <string name="cd_comment">Comments</string>
+    <string name="cd_repost">Share or repost</string>
+    <string name="cd_bookmark">Save post</string>
+    <string name="cd_more_options">Post options</string>
+    <string name="cd_add_photo">Pick photo from gallery</string>
+    <string name="cd_send_message">Send message</string>
+    <string name="cd_settings">Profile settings</string>
+    <string name="hint_search_explore">Search creators, tags, vibes...</string>
+    <string name="hint_write_caption">What is sparking today?</string>
+    <string name="hint_write_comment">Add a comment...</string>
+    <string name="hint_message">Message...</string>
+    <string name="empty_following_title">Quiet on Following</string>
+    <string name="empty_following_body">Follow creators in Explore or For You to see their drops here.</string>
+    <string name="empty_saved_title">No saved posts yet</string>
+    <string name="empty_saved_body">Tap the bookmark icon on any post to save it for later.</string>
+</resources>

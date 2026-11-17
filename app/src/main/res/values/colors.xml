@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="nexus_violet">#FF7C3AED</color>
+    <color name="nexus_pink">#FFEC4899</color>
+    <color name="nexus_orange">#FFF97316</color>
+    <color name="nexus_splash_light">#FFFAF8FF</color>
+    <color name="nexus_splash_dark">#FF0C0914</color>
+</resources>
